@@ -1,5 +1,5 @@
 const ENV = {
-    "googleMapApiKey" : "AIzaSyDyW0MZuL9fXOumXOSD-sI_vIfEexQKcxg"
+    "googleMapApiKey" : ""
 }
 
 export default ENV;
